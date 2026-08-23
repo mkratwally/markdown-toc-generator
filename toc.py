@@ -1,0 +1,1 @@
+def toc(md): return '- [Title](#title)'
